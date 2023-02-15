@@ -3,8 +3,8 @@ cat_id,category,m_id,material,illustration,illustration_
 1,Battery,0,metal,plastic,1
 2,Aluminium blister pack,0,metal,glass,2
 3,Carded blister pack,1,plastic,paper,3
-4,Other plastic bottle,1,plastic,organic,4
-5,Clear plastic bottle,1,plastic,other,5
+4,Other plastic bottle,1,plastic,other,4
+5,Clear plastic bottle,1,plastic,,
 6,Glass bottle,2,glass,,
 7,Plastic bottle cap,1,plastic,,
 8,Metal bottle cap,0,metal,,
@@ -24,7 +24,7 @@ cat_id,category,m_id,material,illustration,illustration_
 22,Foam cup,1,plastic,,
 23,Glass cup,2,glass,,
 24,Other plastic cup,1,plastic,,
-25,Food waste,4,organic,,
+25,Food waste,4,other,,
 26,Glass jar,2,glass,,
 27,Plastic lid,1,plastic,,
 28,Metal lid,0,metal,,
@@ -50,12 +50,12 @@ cat_id,category,m_id,material,illustration,illustration_
 48,Plastic glooves,1,plastic,,
 49,Plastic utensils,1,plastic,,
 50,Pop tab,0,metal,,
-51,Rope & strings,5,other,,
+51,Rope & strings,4,other,,
 52,Scrap metal,0,metal,,
-53,Shoe,5,other,,
+53,Shoe,4,other,,
 54,Squeezable tube,0,metal,,
 55,Plastic straw,1,plastic,,
 56,Paper straw,3,paper,,
 57,Styrofoam piece,1,plastic,,
-58,Unlabeled litter,5,other,,
-59,Cigarette,5,other,,
+58,Unlabeled litter,4,other,,
+59,Cigarette,4,other,,
